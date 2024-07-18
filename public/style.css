@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 130, 130);
+    
+}
+
+div{
+    height: 200px;
+    width: 320px;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    padding: .7rem;
+    background-color:antiquewhite;
+    border: 2px solid rgb(178, 0, 0);
+    border-radius: 10px;
+}
+
+h1{
+    color: rgb(178, 0, 0);
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+
+form{
+    display: inline-block;  /* To set button properly*/
+}
+
